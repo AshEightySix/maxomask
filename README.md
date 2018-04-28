@@ -1,2 +1,2 @@
-MOCK SITE:
-Maxo Masks
+Website | HTML CSS 
+MAXO NEWS
